@@ -34,5 +34,6 @@ public class Faculty extends Employee {
 		this.officeHours = officeHours;
 		this.rank = rank;
 	}
+	
 
 }
